@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "CS5027: Fifty Discoveries, Fifty Inventions"
+  author: "Kevin Fo"
+  date: "10/01/2023"
+  chapters:
+    - index.qmd
+    - part: "**PART 1: LECTURES**"
+      chapters:
+      - intro.qmd
+      - wk2.qmd
+  toc-depth: 3
+  comments: 
+    hypothesis: true 
+  sharing: [facebook, twitter]
+  reader-mode: true
+
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: darkly
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
