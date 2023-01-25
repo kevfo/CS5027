@@ -6,6 +6,7 @@ book:
   title: "CS5027: Fifty Discoveries, Fifty Inventions"
   author: "Kevin Fo"
   date: "10/01/2023"
+  repo-url: https://github.com/kevfo/CS5027
   chapters:
     - index.qmd
     - part: "**PART 1: LECTURES**"
@@ -13,10 +14,13 @@ book:
       - intro.qmd
       - wk2.qmd
       - wk3.qmd
+      - wk3a.qmd
+      - wk3b.qmd
   toc-depth: 3
   comments: 
     hypothesis: true 
   sharing: [facebook, twitter]
+  repo-actions: [edit, issue]
   reader-mode: true
 
 format:

@@ -1,0 +1,176 @@
+# ANSI Standards for Abstracts (Z39.14) and Authorships
+
+
+## ANSI Standards for Abstracts (Z39.14)
+
+The **A**merican **N**ational **S**tandards **I**nstitute (i.e., **ANSI**) is the voice for US standards and conformity assessment system.  The ANSI empowers members and constituents to strengthen the US' position in the global economy while also assuring the health and the safety of consumers and the environment.
+
+The ANSI oversees the creation, the propagation, and the use of thousands of norms and guidelines that impact businesses in almost every sector.  
+
+The ANSI is also active in **accreditation**: assessing the competence of organizations and their adherence to standards.
+
+### Guidelines for Abstracts 
+
+Basic content must be easily identifiable by readers and users.  Authors and editors can also help do the aforementioned via starting a document with a meaningful title and a well-prepared abstract.
+
+However, authors should also bear in mind that people may only selectively read parts of the paper (i.e., not just the abstract).
+
+### What is an Abstract?
+
+An **abstract** is a brief, objective representation of a document or an oral source's contents.  Its purpose to allow readers to identify what a document will be about, to determine a document's relevance to their motives, and to decide what it is that they will need to read from the document.
+
+The purpose of ANSI Z39.14 is to guide authors and staff of service access services on how to prepare an abstract that is as useful as possible.
+
+ANSI Z39.14 applies to all abstracts regardless of author(s), publication location, or publication style (e.g., oral presentations and written documents).
+
+### Definitions Used in ASNI Z39.14
+
+The document uses some terms that may be unfamiliar to the layperson:
+
+1.  **Abstract**
+
+    A brief and objective representation of a document or an oral presentation.
+    
+1.  **Annotation**
+
+    A brief explanation of a document and its contents (usually as a note).
+    
+1.  **Critical Abstract**
+
+    An uncommon form of an abstract that contains evaluations on the significance of a kind of material or a material's presentation.  These abstracts are written by domain knowledge experts.
+    
+1.  **Document**
+
+    An item (printed or otherwise) that an abstract can be done up for.
+    
+1.  **Slanted Abstract**
+
+    An abstract that represents a portion of a document for the benefit of an audience.
+    
+1.  **Structured Abstract**
+
+    An abstract that is structured via headings.
+    
+1.  **Summary**
+
+    A brief restatement within a document that contains findings and conclusions.
+    
+1.  **Synoptic**
+
+    A concise, original publication of key results from a previously unpublished paper.
+
+### Writing an Abstract
+
+ANSI Z39.14 covers many portions of writing an abstract:
+
+1.  **Location of an Abstract**
+
+    In a journal, the abstract should be placed at the top of the first page between the title and the beginning of the text.
+    
+    In separately-published documents, the abstract should be placed between the title page and the text.
+    
+    Abstracts in separate chapters should appear under each chapter title on the first page of its text.
+    
+1.  **Sentences**
+
+    Complete sentences should be used.  The kind of document should not be stated in the first sentence of an abstract.
+    
+1.  **Active Verbs**
+
+    Active voice should be used whenever possible.  Passive voice may be used for indicative and for informative statements (for which the receiver of the action should be emphasized).
+    
+1.  **Vocabulary**
+
+    Unfamiliar jargon should be avoided.
+    
+1.  **Non-Textual Material**
+
+    They should only be included when necessary and when no other alternative is possible.
+    
+### Kinds of Abstracts
+
+There are two main kinds:
+
+#### Informative Abstracts
+
+**Informative abstracts** are used for documents for experimental investigations, inquiries, or surveys.  The abstracts of these documents state the document's purpose, methodology, results, and conclusions.
+
+The structure of an informative abstract may be changed depending on the kind of document and its audience.
+
+In a **structured abstract** (i.e., a structured informative abstract), major points of text are shown in several, labelled paragraphs instead of one.
+
+#### Indicative Abstracts
+
+**Indicative abstracts** are used for less-structured documents (e.g., editorials, essays, opinions, or descriptions) or for lengthy documents (e.g., books, directories, and lists).
+
+Such abstracts are used for documents that do not have information pertaining to methodologies or results.  However, the abstract should still describe the purpose or the scope of discussion or descriptions within a document.
+
+The abstract may also discuss any crucial background information.
+
+## Authorship
+
+The earliest *named* author in history was the Mesopotamian princess *Enheduanna* who - more than 4000 years ago - signed her name on clay tablets that had songs made in honor of Inanna: the goddess of love and war.
+
+### Kinds of Authorship
+
+There are numerous kinds:
+
+#### Single Authorship
+
+Authorship was historically a solitary profession.  However, this stereotype of authors being alone ignores the fact that many scholarly literature is the byproduct of many peoples' works.
+
+Gradually, authorship has expanded to include contributions of all kinds (i.e., even those that have little written contributions).
+
+However, authorship should still be given to those who have substantially contributed to the work and who have a shared responsibility for the results.
+
+##### Substantial Contributions
+
+**Contribution** can exist in four different kinds:
+
+1.  Conception or design
+1.  Data collection or processing
+1.  Analysis and interpretation of the idea
+1.  Writing substantial sections of the paper
+
+#### Co-Authorship
+
+This is when a work has many authors.  These authors need not have written something in order to become an author.
+
+#### Hyperauthorship
+
+This refers to a massively-co-authored paper.
+
+#### Sub-Authorship Collaboration
+
+This is reflected in the acknowledgement status of a document.
+
+Acknowledgements are complex in that authors can thank colleagues for ideas, funding agencies for support, spouses for support, and so on.
+
+There are six categories of acknowledgements:
+
+1.  Conceptual
+1.  Editorial
+1.  Financial
+1.  Instrumental / technical
+1.  Moral
+1.  Reader
+
+#### Gifting and Ghosting 
+
+Some individuals' names can be included as co-authors even though they have not done anything to contribute to the paper - these are **gift authors**.
+
+Otherwise, authors may also have made material contributions, but do not get mentioned.  These people are called **ghost authors**.
+
+### How Should Authorship Go?
+
+Authorship order should always go in terms of contribution to the project.  
+
+Senior team members should lead conversations among authors to determine the amount of contribution by individual 
+
+## Current Stance on ChatGPT
+
+Publishers and preprint servers by *Nature*'s news team agree that AIs such as ChatGPT do not fulfill the criteria for a study author as they cannot take responsibility for the content and the integrity of scientific papers.
+
+
+
+

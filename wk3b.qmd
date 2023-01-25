@@ -1,0 +1,27 @@
+# Health Literacy
+
+> "…we believe that the case is closed – supplementing the diet of well-nourished adults with (most) mineral or vitamin supplements has no clear benefits and might even be harmful."
+> 
+> -- Articles in assigned readings
+
+The [articles]() shown in the course readings address the role of vitamin and mineral supplements 
+
+## Supplements for Primary Prevention
+
+CS5027 presents three case studies:
+
+1.  **Fortman and colleagues**
+
+    After reviewing three trials of multivitamin supplements and 24 trials of single or paired vitamins that randomly assigned more than 400000 participants, Fortman found that there was no correlation between supplements and mortality, cancer, or cardiovascular diseases.
+    
+1.  **Grodstein and coworkers**
+
+    After a 12-year follow up, Grodstein found that there was no difference multivitamin and placebo groups in overall cognitive performance or verbal memory.
+    
+1.  **Lamas and associates**
+
+    They assessed the benefits of a high-dose, 28-component multivitamin supplement in 1708 men and women who had a previous myocardial infarction (i.e., heart attack).
+    
+    After a median follow-up period of 4.6 years, Lamas found that there was no difference in recurrent cardiovascular events with multivitamins with placebos.
+    
+The overall message is that there is no clear benefit of multivitamins - in fact, such supplements may contain harmful ingredients that may increase mortality.  Most supplements do not prevent chronic disease or death - hence, their use is not justified (i.e., they should be avoided).
