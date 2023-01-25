@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "CS5027: Fifty Discoveries, Fifty Inventions"
