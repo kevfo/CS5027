@@ -17,6 +17,7 @@ book:
       - wk3a.qmd
       - wk3b.qmd
       - wk4a.qmd
+      - wk5.qmd
   toc-depth: 3
   comments: 
     hypothesis: true 
