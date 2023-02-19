@@ -1,0 +1,383 @@
+# Story of Physics
+
+Physics is the study of natural forces in the universe.  By studying these forces, we can understand why and how things work the way they do.  When we understand matter, energy and the interactions between them, we can then use that knowledge to discover and create new ideas and technologies.
+
+The fundamental ideas of physics underlie all science – astronomy, biology, chemistry and geology – and physics is essential to applied science and engineering.
+
+**Experimental physicists** design and run careful investigations on a broad range of phenomena in nature, often under conditions which are atypical of our everyday lives.
+
+**Theoretical physicists** propose and develop models and theories to explain mathematically the results of experimental observations.
+
+Experiment and theory have a broad overlap.  Experimental physicists remain keenly aware of the current theoretical work in their fields, while theoretical physicists must know the experimenters' results and the context in which the results need be interpreted.
+
+## Joseph John (i.e., "JJ") Thomson
+
+Thomson was born on December 18, 1856, in Cheetham Hill, located just north of Manchester.
+
+In 1876, he studied at Trinity College, Cambridge, obtaining his BA in mathematics in 1880, and MA (with Adams Prize) in 1883.  In 1884 he became Cavendish Professor of Physics, succeeding Lord Rayleigh.
+
+> "I regard the atom as containing a large number of smaller bodies which I will call corpuscles; … In the normal atom, this assemblage of corpuscles forms a system which is electrically neutral.  Though the individual corpuscles behave like negative ions, yet when they are assembled in a neutral atom the negative effect is balanced by something which causes the space through which the corpuscles are spread to act as if it had a charge of positive electricity equal in amount to the sum of the negative charges on the corpuscles."
+>
+> -- JJ Thomson  on the Plum Pudding Model (1899)
+
+He discovered the electron in 1897.  He was also a gifted teacher, and seven of his research assistants and his son won Nobel Prizes in physics.
+
+### Corpuscles and Thomson's Plum Pudding Model
+
+Thomson posited something which behaves as if it had a positive charge.
+
+```{r echo = F, fig.cap = "An Image of a Corpuscle", fig.align = "center"}
+knitr::include_graphics("images/wk6/corp.jpg")
+```
+
+But he was certain about the overall system, namely the atom is a spatial domain filled with numerous negative corpuscles whose total charge is neutralised somehow by the spatial positive electrification.
+
+Between 1904 and about 1910, Thomson’s model of the atom was generally accepted as the best available atomic theory.
+
+It became popularly known as the **plum-pudding atomic model**.
+
+```{r echo = F, fig.cap = "Traditional British Plum Pudding", fig.align = "center"}
+knitr::include_graphics("images/wk6/pudding.jpg")
+```
+
+Despite its name, this pudding contains raisins rather than plums.
+According to Thomson’s theory of 1906, the electrons revolve on rings about the centre of the atom.  
+
+### Electrons
+
+The electron is the lightest stable subatomic particle known.  It carries a negative charge which is considered the basic charge of electricity.
+
+An electron is nearly massless.  It has a rest mass of $9.1 \times 10^{-28}$ gram, which is only 0.0005 the mass of a proton.
+
+The electron was the first subatomic particle discovered.  It was identified in 1897 by J.J. Thomson during investigations of cathode rays.  His discovery of electrons, which he initially called corpuscles, played a pivotal role in revolutionizing knowledge of atomic structure.
+
+## Wilhelm Röntgen
+
+Wilhelm Conrad Röntgen was born on 27 March 1845, at Lennep in the Lower Rhine Province of Germany.  Röntgen, professor of physics at the University of Wurzburg, discovered X-rays while experimenting with high-voltage electricity.
+
+Working in his darkened lab, he sent an electric current through a cathode ray vacuum tube.  Out of the corner of his eye, he glimpsed a bright, greenish-yellow glow on a piece of paper on a nearby bench.
+He concluded that a new type of ray was being emitted from the tube.
+
+```{r echo = F, fig.cap = "An X-ray of Anna Bertha's Hand", fig.align = "center"}
+knitr::include_graphics("images/wk6/hands.jpg")
+```
+
+Röntgen found that the new ray could pass through most substances casting shadows of solid objects.  He also discovered that the ray could pass through the tissue of humans, but not bones and metal objects.
+
+One of Röntgen’s first experiments late in 1895 was a film of the hand of his wife, Anna Bertha. (Hands were a popular subject of early X-rays.)
+
+Schuster recognised the medical value of X-rays.
+
+The potential medical applications are why Röntgen decided not to patent X-rays.
+
+Early X-rays were called: 
+
+1.  Radiographs
+1.  Roentgenograms 
+1.  Roentgenographs
+
+X-rays quickly proved useful as a diagnostic and therapeutic tool as it allowed physicians their first look inside the body without surgery.
+
+### First Dental X-Ray
+
+Fourteen days after Röntgen’s first publication on X-ray (28 December 1895), Otto Walkhoff captured the first dental X-ray of his own teeth.
+He asked Fritz Giesel, a professor of physics to assist him – he experienced a 25-minute exposure.
+
+> “I felt tremendously happy when I saw the results.  It was when I weighed up the importance of Röntgen’s discovery for future dentistry.”
+>
+> -- Fritz Giesel
+
+Fritz Giesel eventually lost his hair.  Today, the exposure to X-ray in in the order of milliseconds.
+
+In the early days of X-ray, the exposure of 25 to 30 minutes.  Patients suffered the after effects of the exposure in the following forms:
+
+loss of hair, skin burn, skin blisters, fingernail growth stopped, bloodshot eyes, impaired vision, dermatitis, itching of the skin, basal cell carcinoma, metastatic carcinoma.
+
+### Émil Herman Grubbé
+
+In 1896, barely a year after Röntgen had discovered his X-rays, a 21-year-old Chicago medical student, Emil Grubbé, had the inspired notion of using X-rays to treat cancer.
+
+Grubbé had worked in a factory in Chicago that produced X-ray tubes, and he had built a crude version of a tube for his own experiments.
+
+Having encountered X-ray, exposed factory workers with peeling skin and nails – his own hands had also become chapped and swollen from repeated exposures – Grubbé extended the logic of this cell death to tumours. 
+
+In 1896, in a tube factory in Chicago, Grubbé began to bombard Rose Lee, and elderly woman with breast cancer, with radiation, using an improvised X-ray tube.
+
+Lee’s cancer had relapsed after a mastectomy, and the tumour had exploded into a painful mass in her breast.
+
+The tumour ulcerated, tightened, and shrank, producing the first response in the history of X-ray therapy.  A few months after her initial treatment, the cancer metastasized to her spine, brain and liver.
+
+X-rays could only be used to treat cancer locally, with little effect on tumours that had already metastasized.
+
+A new branch of cancer medicine, radiation oncology, was born.
+Grubbé succumbed to the deadly effects of chronic radiation.  By the mid-1940s, his fingers had been amputated one-by-one to remove necrotic and gangrenous bones, and his face was cut up in repeated operations to remove radiation-induced tumours and premalignant warts.  In 1960, he died in Chicago, with multiple forms of cancer that had spread throughout his body.
+
+## Ernest Rutherford
+
+Ernest Rutherford was born on August 30, 1871 at a small town called Bridgewater near Nelson in New Zealand’s South Island.
+
+he was able to win another scholarship to study from 1890 to 1894 and joined Canterbury College of the University of New Zealand in Christchurch.
+
+He got his bachelors degree in 1892 and masters degree in 1893.  
+
+At this point Rutherford set his eyes on getting a scholarship of the Royal Commissioners for the Exhibition of 1851, which would enable him to study anywhere in the British-ruled countries.
+
+This was not easy as only one scholarship was given every two years to a New Zealand student who had to be on the roll in the University at the time of applying for it.
+
+Therefore Rutherford went back to Canterbury College in 1894 and completed BSc degree with geology, chemistry and some research work.
+
+Rutherford decided to work with J.J. Thomson, who was then the Director of Cavendish Laboratory at Cambridge University.
+
+Rutherford left New Zealand in 1895 and joined J.J. Thomson.  He became the first non-Cambridge graduate to be admitted for PhD at Cambridge University.
+
+Rutherford discovered alpha and beta rays in 1898.
+
+Rutherford accepted an invitation to the Macdonald Chair of Physics (1898-1907) at McGill University in Montreal, Canada, and moved there without completing the PhD degree.
+
+### Discovering Half-Lives
+
+Working with Frederick Soddy in 1902-03, Rutherford identified the phenomenon of radioactive half-life and formulated the still-accepted explanation of radioactivity: each decay of the atoms of radioactive materials signifies the transmutation of a parent element into a daughter, with each type of atom having its own transformation period.
+
+A succession of such transformations forms a radioactive series.
+
+### Geiger-Marsden Experiments
+
+```{r echo = F, fig.cap = "Setup of a Typical Geiger-Marsden Experiment", fig.align = "center"}
+knitr::include_graphics("images/wk6/exp.jpg")
+```
+
+These experiments provided the first experimental evidence that led to the discovery of the nucleus of the atom as a small, dense, and positively charged atomic core.  The discovery involved a series of experiments performed by Hans Geiger and Ernest Marsden under Ernest Rutherford.
+
+With Geiger and Marsden’s experimental evidence, Rutherford deduced a model of the atom, discovering the atomic nucleus.  His “Rutherford Model” (or solar system model, or planetary model), outlining a tiny positively charged atomic centre surrounded by orbiting electrons, was a pivotal scientific discovery revealing the structure of the atoms that comprise all the matter in the universe.
+
+### Atom Interior
+
+The experimental evidence involved the scattering of a particle beam after passing through a thin gold foil obstruction.  The particles used for the experiment – alpha particles – are positive, dense, and can be emitted by a radioactive source.
+
+Ernest Rutherford discovered the alpha particle as a positive radioactive emission in 1899.  As these alpha particles have a significant positive charge, any significant potential interference would have to be caused by a large concentration of electrostatic force somewhere in the structure of the atom.
+
+```{r echo = F, fig.cap = "Electron Scattering", fig.align = "center"}
+knitr::include_graphics("images/wk6/scattering.jpg")
+```
+
+The scattering of an 𝛼-particle beam should have been impossible according to the plum pudding model of the atom.  This model held that atoms were comprised of a sphere of positive electric charge dotted by the presence of negatively charged electrons.
+
+This model lacked the presence of any significant concentration of electromagnetic force that could tangibly affect any alpha particles passing through atoms.  As such, α-particles should show no signs of scattering when passing through thin matter.
+
+#### Explanations
+
+The alpha particles had run into huge concentrations of positive charge and were repelled.  Rutherford explained that the atom composed almost entirely of empty space.  It had no solid boundary and its outer limits were defined only by the movement of its outermost electrons, while at the centre lay the atomic nucleus.
+
+> "...It was as if you fired a 15-inch naval shell at a piece of tissue paper and it came back and hit you.  I realised that this scattering backwards must be the result of a single collision, and when I made calculations I saw that it was impossible to get anything of that order of magnitude unless you took a system in which the mass of the atom was concentrated in a minute nucleus”
+>
+> -- Rutherford's Explanation
+
+In relation to the atom, the nucleus was a mere speck in a cavernous void. The nucleus is so small that only 1 particle in 8000 would collide with it.   It was like a fly in a cathedral.
+
+### In the Cavendish Laboratory
+
+After the war, in 1919, Rutherford moved to Cambridge University, succeeding J.J. Thomson, as Cavendish Professor of Physics and the Director of the Cavendish Laboratory.  Soon, he found that nuclei can be disintegrated artificially by bombarding with alpha particles, and thus cause transmutations.  By this means he converted nitrogen nuclei into oxygen nuclei.
+
+> "He (Rutherford) had ... a volcanic energy, interest, enthusiasm and an immense capacity for work.  He had the most astonishing insight into physical processes, and in a few remarks he would illuminate a whole subject.  There is a stock phrase-‘to throw light on a subject’.  This is exactly what Rutherford did.  To work with him was a continual joy and wonder.  He seemed to know the answer before the experiment was made, and was ready to push on the irresistible urge to the next.  (He was nicknamed ‘crocodile’, which cannot turn its head...must always go forward with all devouring jaws open.)  He was indeed a pioneer – the word he often used – at his best exploring an unknown country, pointing out the really important features and leaving the rest for others to survey at leisure.  He was, in my opinion, the greatest experimental physicist since Faraday.
+>
+> In appearance Rutherford was more like a successful businessman or Dominion farmer than a scholar … he was of massive build, had a moustache and a ruddy complexion.  He wore lose, rather baggy clothes, except on formal occasions.  A little under six feet in height, he was noticeable but by no means impressive. It seemed impossible for Rutherford to speak softly.
+>
+> His whisper could be heard all over the room, and in any company he dominated through the sheer volume and nature of his voice, which remained tinged with antipodean flavour despite his many years in Canada and England.  His laughter was equally formidable.  Rutherford would not hesitate making fun of the Nobel Committee decision to choose him for the Chemistry Prize instead of the Physics Prize."
+>
+> -- James Chadwick on Ernest Rutherford
+
+He won the 1908 Nobel Prize in Chemistry for his “investigations into the disintegration of the elements, and the chemistry of radioactive substances.”
+
+### Rutherford's Death
+
+Rutherford died on 19 October 1937 in Cambridge.  His ashes were buried in Westminster Abbey close to the tombs of Sir Isaac Newton and Lord Kelvin.
+
+## The Curies
+
+> "Sometimes, I had to spend a whole day mixing a boiling mass with a heavy iron rod nearly as large as myself.  I would be broken with fatigue at the day’s end.  Other days, on the contrary, the work would be a most minute and delicate fractional crystallization, in the effort to concentrate the radium.
+>
+> Our precious products … were arranged on tables and boards; from all sides we could see their slightly luminous silhouettes, and these gleamings, which seemed suspended in the darkness, stirred us with ever new emotion and enchantment."
+>
+> -- Marie Curie in her autobiography
+
+Awarded a combined total of six Nobel Prizes, the celebrated Curie family’s collective work and momentous achievements alone make their lives fascinating.  But the lesser-known side of their story includes the controversy, the drama, the scandal, and the tragedy that surrounds them.
+
+Now, the first full-scale biography of the Curies provides a well-rounded, honest look at both the private and professional lives of the world’s most gifted scientific family.
+
+### Pierre Curie
+
+Pierre was born in Paris on 15 May 1859.  He was the second son of Eugène Curie and Sophie Claire Depouilly (his elder brother was Jacques).
+
+His grandfather, Paul François Curie, had been a surgeon in the Military Hospital of Paris.  Disenchanted with conventional medicine, he pioneered a new system of healing, called homeopathy, writing a book about it, entitled, Practice of Homeopathy.
+
+His father, Eugène Curie was a doctor.  His mother, Sophie Claire Depouilly was the daughter of a once wealthy cloth manufacturer in Puteaux.
+
+Pierre’s parents, and later, his brother, taught him at home.  Throughout the elementary and high school years, they gave him a grounding in biology, chemistry, physics and geometry.  He made up for his lack of schooling in literature and history by reading many of the books in his father’s large library.  Pierre could only learn a subject thoroughly by intense concentration, which he found impossible in a disturbing environment.
+
+When Pierre was fourteen, his father realised that he was exceptional at math, especially spatial geometry, and hired Professor Albert Bazille to teach him advanced mathematics.
+
+Bazille inspired him to such intense effort that despite his early casual home schooling, he matriculated at the prestigious Sorbonne at 16.  There, in just two years, he got a degree in physics.  Then at 18, because his financial help was needed at home, instead of pursuing a doctorate, he began to work as a physics lab assistant at the Sorbonne.  Jacques was already employed as an assistant in the mineralogy department.
+
+As a pacifist, having seen the horrors of war, Pierre avoided military service by agreeing to spend ten years working in public education – something he had already started to do as a lab assistant.  He liked reading novels.  Pierre and Jacques already knew that crystals heated in a fire attracted ash and wood to their surfaces like magnets.
+
+Kelvin had also discovered that when certain crystals were heated, they generated electricity – this was known as pyroelectricity.  The two brothers proved that pressure on some crystals had the same effect.
+
+### Discovering the Piezoelectric Effect
+
+Jacques and Pierre Curie announced their discovery of the piezoelectric (from the Greek piezine, ‘to press’) effect to the French Academy of Science on 2 August 1880.  Today, piezoelectric devices are ubiquitous.  E.g., all quartz watches and clocks are based on piezoelectricity.
+
+> “Their experiment led the two young physicists to a great success: the discovery of the hitherto unknown piezoelectricity, […].  This was by no means a chance discovery.  It was the result of much reflection on the symmetry of crystalline matter which enabled the brothers to foresee the possibility of such polarization. […] With experimentation rare for their age, the young men succeeded in making a complete study of the new phenomenon, established the conditions of symmetry necessary to its production in crystals, and state its remarkably simple quantitative laws, as well as its absolute magnitude for certain crystals.”
+>
+> -- Marie Curie
+
+The use of the phenomenon outside the laboratory began 35 years after its discovery during the first world war, in a search for a device to detect German submarines.  The sonar, the product of this research, was put into use only after the war had ended.
+
+### Marie Salomea Sklodowska
+
+Marie was born in Warsaw on 7 November 1867.  Her parents, Vladislav and Bronislava, already had three daughters (Sophie, Bronia and Hela) and a son (Joseph).  They grew up in a police state under the autocratic Russian Czar Alexander II.  He was determined to enslave the intellectual and middle-class Poles who had opposed his rule, and to eradicate their language, culture, and history.  Russian became the official language, Russian officials and teachers replaced the Poles, and Poland disappeared from maps to reappear as Vistula Land or Vistula Country.  She danced joyfully in the classroom after hearing that Czar Alexander II had been killed by an assassin on 13 March 1881.
+
+Marie’s father was a professor and assistant principal of a boy’s school, taught physics and mathematics, which he loved.  Her mother was a headmistress and director of a prestigious girls’ boarding school.
+
+He established a boys’ boarding school in the family home, taking in two or three boarders at first, then five, eight, ten.  He gave lodging, food, and private instruction to these young boys, chosen from among his pupils.  The house was transformed into a noisy barracks and intimacy vanished from family life.
+
+When Marie was nine, one of the boarders caught typhus and 14-year-old Sophie was infected with the disease, which killed her.  Marie was stunned by the death of her brilliant and high-spirited sister.
+
+At ten, Marie left home to attend a private boarding school.  Her teacher Mlle Antonina Tupalska, who doted on her, taught Polish history in Polish – a practice forbidden by the Russian authorities.  Although Marie was two years younger than most of her 24 classmates, she beat them all in history, literature, German, and French.
+
+### Marie as a Governess
+
+After a year, Marie decided to leave home to be a governess in a lawyer’s family.  It was a bad experience for her as she did not get along well with the wife.
+
+Bronia wanted to study medicine in Paris, and raised enough money for the journey and tuition.  But when she reached Paris, she hadn’t enough money to survive on even in the inexpensive Latin Quarter.  Marie, too, wanted to study in Paris, and so they made an agreement.  Marie would accept another job, also as a governess.  From her salary, she promised to subsidize Bronia until she graduated and got a job as a doctor.  Then the roles would be reversed.
+
+> “Today we had another scene because she did not want to get up at the usual hour.  In the end, I was obliged to take her calmly by the hand and pull her out of bed.  I was boiling inside.  You can’t imagine what such little things do to me: such a piece of nonsense can make me ill for several hours.  Bur I had to get the better of her.”
+>
+> -- Marie Curie 
+
+Her experience in the Zorawski house was much better.  Most evenings were devoted to her own studies – literature and sociology – but eventually, she decided that if she ever got to Paris she would focus on mathematics and physics.
+
+### Casimir Zorawski
+
+Marie fell in love with Casimir Zorawski, the eldest son of her employers.  He asked her to marry him, and she expected his family to be pleased.  But when Casimir asked for his parents’ approval to marry Marie, his parents disapproved.  The idea of their son marrying a poor working woman was intolerable.  In one instant, the social barriers went up, insurmountable.
+
+The fact that Marie was of good family, that she was cultivated, brilliant, and of irreproachable reputation, the fact that her father was honourably known in Warsaw – none of that counted.  One does not marry a governess!
+
+> “If men don’t want to marry poor young girls, then let them go to the devil!”
+>
+> -- Marie to Joseph in writing 
+
+Subjected to his parents’ disapproval, Casimir did not fight for the woman he loved.  Heartbroken and humiliated, Marie wanted to leave immediately, but she remembered the pact she made with her sister – to send almost half her salary to support Bronia’s studies in Paris.  So she continued on as the family’s governess, trying hard to hide her anger and bitter disappointment.
+
+> "Everybody says I have changed a great deal, physically and spiritually, during my stay in Szczuki.  This is not surprising.  I was barely eighteen when I came here and what have I not been through!  There have been moments which I shall certainly count among the most cruel of my life.  I feel everything very violently, with a physical violence, and then I give myself a shaking, the vigor of my nature conquers, and it seems to me that I am coming out of a nightmare […] First principle: never to let one’s self be beaten down by persons or events.  I count the hours and days that separate me from the holidays and my departure to my own people.  There is also the need of new impressions, of change, or movement and life, which seizes me sometimes with such force that I want to fling myself into the greatest follies, if only to keep my life from being eternally the same.  Fortunately, I have so much work to do that these attacks seize me pretty rarely."
+>
+> -- Marie to Henrietta in writing 
+
+### Improving Finances
+
+On the home front, there were developments.  Her father took on a job as director of a reform school near Warsaw.  It paid well, and he was able to help Bronia and Marie.
+
+Bronia told their father that she could live on 32 rubles a month and to save eight of the forty he usually sent her, and give to Marie instead, which he did.  For the first time, Marie was able to save toward her future life in France.
+
+In July 1890, Marie left the Zorawskys, and began planning for her own future.  Her next job was with the Fuchs family.
+
+> “I dreamed of Paris as of redemption, but the hope of going there left me a long time ago.  And now that the possibility is offered to me, I do not know what to do … I am afraid to speak of it to Father.  I believe our plan of living together next year is close to his heart, and he clings to it; I want to give him a little happiness in his old age.  And on the other hand my heart breaks when I think of ruining my abilities, which must have been worth something.”
+>
+> -- Marie in writing 
+
+Marie had worked for less than a year when Bronia informed her that they would soon graduate as doctors, after which they intended to marry.  If Marie could save a few hundred rubles to pay for her fees at the Sorbonne, she could then live with them for free, meals included.
+
+### Marie's Third Job as a Governess
+
+> "Marie has a secret about her future, of which she is to speak to me at length … To tell you the truth, I can well imagine what it has to do with, and I don’t myself know whether I should be glad or sorry.  If my foresight is accurate, the same disappointments, coming from the same person who have already caused them to her, are awaiting her.  And yet if it is a question of building a life according to her own feeling, and of making two people happy, that is worth the trouble of facing them perhaps.  Your invitation to Paris, which fell upon her in such unexpected fashion, has given her a fever and added to her disorder …  If she does not come back to me completely cured, I should oppose her departure, because of the hard conditions she would find herself in during the winter in Paris … without ever mentioning the fact that it would be very painful for me to separate from her, but this consideration is obviously secondary.  I learned with great joy that Casimir (Bronia’s husband) is doing well .  How funny it would be if each of you had a Casimir."
+>
+> -- Letter from father to Bronia.
+
+During their walks in the mountains, Casimir merely repeated that he could not overcome his snobbish parents’ opposition.  And Marie made the final break with her parting shot, telling him that if he couldn’t resolve the problem, it was not for her to teach him how to do it.
+
+> “It would restore me spiritually after the cruel trials I have been through this summer which will have an influence on my whole life … I am so nervous at the prospect of my departure that I cant speak of anything else until I get your answer … I promise that I shall not be a bore or create disorder.  I implore you to answer me, but very frankly.” 
+>
+> -- Marie Curie 
+
+As Casimir was a lost cause, Marie wrote to Bronia (now married and pregnant) telling her that she would join her in Paris if her sister could feed her without depriving herself.
+
+### Inadequate Academic Grounding 
+
+Bronia and her husband were at Gare du Nord to receive Marie when she arrived in Paris.  She began her studies at the Sorbonne’s Faculty of Sciences on 3 November 1891, one of only 23 women among 1,825 students.  Men outnumbered women almost a hundred to one.
+
+To her dismay, her French failed her when a professor spoke quickly, and she could not grasp entire sentences.  In addition, the physics and mathematics she had studied alone or in correspondence with her father was not up to the standard of her classmates education in French schools.
+
+Marie took her physics exam in July 1893, and got the highest score.
+
+Never before in the history of the Sorbonne, had a woman, and a foreigner, top the physics class.  Marie was eager to return to the Sorbonne to get a master’s degree in math.  But her savings were exhausted, her father had already sacrificed too much, and Bronia, with a young child, couldn’t be expected to extend their help for another year.
+
+The Alexandrovitch Scholarship Fund came to the rescue with 600 rubles, enough to support her in Paris until she got a math degree.
+
+### Meeting Pierre
+
+> "Marie was hired by the Society for the Encouragement of National Industries to test the magnetic properties of various steels.  But the Sorbonne’s crowded physics lab hadn’t room for the equipment she needed for the tests.  A friend, Professor Kowalski, who had known her since her days as a governess in Poland invited her to meet someone he thought could help her."
+>
+> -– Pierre Curie.
+
+After meeting at Joseph Kowalski’s apartment, they met again at the French Society of Physics, and at his lab.
+
+Pierre completed his doctoral thesis in March 1895, titled “Magnetic Properties of Bodies at Diverse Temperatures”.  After this, he persuaded Marie to marry him.
+
+The were married on 26 July 1895 at Sceaux’s town hall.  On 12 September 1897, Dr. Eugene Curie delivered Irène Curie.  Late in 1897, Marie decided not to seek a teaching job right away, but to study for a doctorate.  If successful, she would be the first woman in France, and possible the whole of Europe, with a Ph.D. in physics.
+
+### PhD Topics
+
+The Curies agreed that a fundamental study of the nature of uranium would be an engrossing subject for Marie’s PhD thesis.
+Professor Gabriel Lippman delivered her first paper on her research at the weekly meeting of the French Academy of Sciences, on 12 April 1898, titled, “Rays Emitted by Compounds of Uranium and of Thorium”.
+
+Marie was intrigued by the erratic results from testing pitchblende.  She found that its radioactivity was four times more intense that justified by its uranium content.  She repeated her experiment 20 times, but got the same results.
+
+She suspected that she had found a new element.
+
+>“The radiation from pitchblende that I couldn’t explain comes from a new chemical element.  The element is there and I’ve got to find it.  We are sure!”
+>
+> -- Marie in writing to Bronia
+
+At last, she found an element 150 more active that uranium.  She called it polonium, after Poland.  Henri Becquerel presented their report to the Academy, “On a New Radioactive Substance Contained in Pitchblende.”
+
+Impressed by Marie’s research, the Academy of Sciences awarded her the Gegner Prize, but because its member were male chauvinists, did not tell her.
+
+Instead, Pierre was asked to inform her that she had won the prize and with it, three thousand eight hundred francs.  From barium, they isolated an element which was 900 more radioactive than uranium.  They named this project radium.  To isolate radium, they had to work with several tons of pitchblende from a mine in Jachomov (Czech Republic).
+
+Pitchblende is one of the most complex minerals, containing up to 30 different elements, combined in a great variety of ways.  In addition, the Curies were not trained chemists – yet they were not discouraged.
+
+### Finding Actinium
+
+While working on pitchblende in 1899, André-Louis Debierne discovered actinium, a rare, highly radioactive silvery-white metal that also glowed blue in the dark.
+
+Scientists began to notice the effects of radioactive material.  They gave a glass tube of radioactive barium to Becquerel, who kept it in his waistcoat for about six hours.  This caused a burn on his skin the shape of the glass tube.  Yet he felt no burning sensation.
+
+When young chemist Bertrand Goldschmidt arrived for an interview in June 1933, she told him in a strong Polish accent, ‘for a year or two, you will be my slave in chemistry and do everything for me’.
+
+He was in awe of this ‘rather small old lady with big hairs on her chin, who looked much older than her sixty-five years’.
+
+He was fascinated by the stories still circulating of a once-active love-life.  There were ‘many rumours’, including that Eve Curie, born in 1904, and with her blue eyes and dark hair so different from her older, fairer sister, was not Pierre Curie’s daughter, ‘but André Debierne’s’.
+
+### Dangers of Radioactivity
+
+> "If one leaves a small glass ampulla with several centigrams of radium salt in one’s pocket for a few hours, one will feel absolutely nothing.  But in 15 days afterwards redness will appear on the epidermis, and then a sore, which will be very difficult to heal.  A more prolonged action could lead to paralysis and death."
+>
+> -- Pierre Curie in his Nobel Prize Lecture
+
+Pierre personally confirmed the possibly dangerous effect by intentionally inducing a burn on his own arm with radioactive barium.  It took fifty-two days to heal, leaving a gray spot he believed indicated a deeper injury.  Both he and Marie had already noticed that handling containers of radioactive material caused their fingertips to become hard and painful for as long as two months.  It was clear that radium was a health hazard.
+
+Doctors started to experiment with radium.  It reduced their patients’ tumours, lesions, and some kinds of cancer.  This radium treatment became  known as Curie-therapy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
